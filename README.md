@@ -1,0 +1,2 @@
+# Assignment_3_ImplimentFSM
+In this project we used NPC and define its FSM. in this game at start NPC is in idle state. then after pressing up arrow key, NPC chase a capsule. and after eating a capsule NPC will enter in "superpower"  for eight seconds. after timeout NPC again will chase for capsule. while chasing NPC can fall from terrain from whole and will enter in "Dead" state. I also used FPS controller to follow the NPC.
